@@ -1,7 +1,7 @@
 ---
 title: "SAINT MAXIMILIAN KOLBE"
 date: 2018-09-24T11:07:10+06:00
-author: John Doe
+author: MMT
 image : "images/blog/kolbe.jpg"
 bg_image: "images/feature-bg.jpg"
 categories: ["Company News"]
